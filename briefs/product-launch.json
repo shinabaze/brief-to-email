@@ -1,0 +1,21 @@
+{
+  "template": "announcement",
+  "brand": {
+    "name": "Larkspur Notes",
+    "primaryColor": "#4F46E5",
+    "logoUrl": "https://placehold.co/360x80/FFFFFF/4F46E5/png?text=Larkspur+Notes"
+  },
+  "subject": "Offline mode is here",
+  "preheader": "Write on a plane, sync when you land. No setup needed.",
+  "eyebrow": "New feature",
+  "headline": "Your notes now work without a connection",
+  "body": "Offline mode is live for everyone today. Open Larkspur on a train, a plane or in a basement café, and everything you write is saved on your device first.\n\nWhen you are back online, your notes sync in the background. If you edited the same note on two devices, we keep both versions side by side so nothing is lost.",
+  "cta": {
+    "text": "Try offline mode",
+    "url": "https://example.com/offline"
+  },
+  "image": {
+    "url": "https://placehold.co/1200x600/4F46E5/FFFFFF/png?text=Offline+mode",
+    "alt": "A phone showing a note marked 'saved on this device'"
+  }
+}

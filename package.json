@@ -1,0 +1,17 @@
+{
+  "name": "brief-to-email",
+  "version": "0.1.0",
+  "description": "Turn a JSON content brief into a responsive, email-client-safe HTML email with MJML, then check it.",
+  "type": "module",
+  "license": "MIT",
+  "author": "Shinabaze Ajiya",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "mjml": "^5.4.1"
+  }
+}

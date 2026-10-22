@@ -1,0 +1,36 @@
+{
+  "template": "newsletter",
+  "brand": {
+    "name": "The Field Kit",
+    "primaryColor": "#0F766E",
+    "logoUrl": "https://placehold.co/360x80/FFFFFF/0F766E/png?text=The+Field+Kit"
+  },
+  "subject": "The Field Kit: three things worth your time this week",
+  "preheader": "Dark mode email, faster image loading, and a checklist for accessible buttons.",
+  "eyebrow": "Issue 42 · Weekly digest",
+  "headline": "Three things worth your time this week",
+  "body": "Short reads for people who build email. Each one takes under five minutes.",
+  "items": [
+    {
+      "title": "Why your logo disappears in dark mode",
+      "text": "Some clients invert colours and some do not. A transparent PNG with a thin light outline survives both.",
+      "url": "https://example.com/dark-mode-logos",
+      "image": "https://placehold.co/400x300/0F766E/FFFFFF/png?text=Dark+mode"
+    },
+    {
+      "title": "Sizing images for retina without the weight",
+      "text": "Export at twice the display width, then compress. The email stays sharp on a phone and well under the clipping limit.",
+      "url": "https://example.com/retina-images",
+      "image": "https://placehold.co/400x300/134E4A/FFFFFF/png?text=Retina"
+    },
+    {
+      "title": "A short checklist for accessible buttons",
+      "text": "Real text instead of an image, enough contrast, and a tap target at least 44 pixels tall.",
+      "url": "https://example.com/accessible-buttons"
+    }
+  ],
+  "cta": {
+    "text": "Read the full archive",
+    "url": "https://example.com/archive"
+  }
+}
